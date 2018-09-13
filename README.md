@@ -18,10 +18,8 @@ An example puzzle (16 by 16, blue: number given in initial puzzle, green: number
 
 <br/>
 
-Hardwired connectivity for network solving 4 by 4 puzzles (all connections are inhibitory, each neuron represent a given number in a given cell): 
+Hardwired connectivity for network solving 4 by 4 puzzles (all connections are inhibitory, each neuron represent a given number in a given cell of the Sudoku table): 
 
 <br/>
 
 <img src="https://github.com/davidsamu/Sudoku-solver/blob/master/connectivities/size4/hardwired/elev_60_azim_30.png" width="600">
-
-<br/>
