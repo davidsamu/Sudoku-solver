@@ -5,7 +5,7 @@ Rules of Sudoku are represented in the connectivity of the network. Input receiv
 
 The process corresponds to models of pattern recognition by completion / perception by incomplete stimuli, where: 
 
-Solving Sudoku puzzles: forward pass /inference
-Generating Sudoku puzzles: backward pass / spontaneous state settling
-Sampling from multiple solutions compatible with initial puzzle: solving the under-defined perception / pattern recognition problem
-Learning a generative world model connectivity: passing many Sudoku examples through the network with plastic connections
+- Solving Sudoku puzzles: forward pass /inference
+- Generating Sudoku puzzles: backward pass / spontaneous state settling
+- Sampling from multiple solutions compatible with initial puzzle: solving the under-defined perception / pattern recognition problem
+- Learning a generative world model connectivity: passing many Sudoku examples through the network with plastic connections
