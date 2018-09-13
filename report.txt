@@ -1,0 +1,3 @@
+Starting simulation at t=0. s for a duration of 5. s
+2.5035 s (50%) simulated in 2s, estimated 2s remaining.
+5. s (100%) simulated in 3s
